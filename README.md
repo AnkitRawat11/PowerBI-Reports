@@ -1,4 +1,4 @@
-# Pizza Sales-Dashboard
+# Pizza Sales-Report
 
 The Pizza Sales Analysis Power BI Project comprehensively analyzes pizza sales for a fictional pizza restaurant chain. Using a sample dataset, this Power BI report offers insights into sales performance, customer demographics, popular pizza types, and sales trends.
 
